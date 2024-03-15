@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "asliddin",
+      "email": "aslee23@gmail.com",
+      "body": "Hello World!"
+    }
+  ]
+}

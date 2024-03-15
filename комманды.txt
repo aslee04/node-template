@@ -1,0 +1,13 @@
+комманды
+
+1) node -v проверка версий Node JS
+2) npm -v проверка версий NMP 
+3) npm i json-server@0.17.4 установка завис-ых пакет JSON-SERVER
+4) npm run server - для запуска сервера (готовая комманда написано в package.json)
+5) npm i или npm install - для пере установки node_modules
+
+ссылки
+
+1) ссылка на сайт NODEJS https://nodejs.org/en
+2) ссылка на сайт NPM https://www.npmjs.com/
+3) ссылка на сайт JSON_SERVER https://www.npmjs.com/package/json-server/
